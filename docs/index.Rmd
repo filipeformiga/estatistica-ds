@@ -1,5 +1,5 @@
 ---
-title: "Modelos Não-Lineares"
+title: "Estatística e Ciência de Dados"
 author: "Filipe Formiga"
 date: '2022-06-30'
 output:
