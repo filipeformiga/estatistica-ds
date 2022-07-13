@@ -1,0 +1,36 @@
+---
+title: "Modelos Não-Lineares"
+author: "Filipe Formiga"
+date: '2022-06-30'
+output:
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 4
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    theme: 'spacelab'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Prefácio
+
+Essa página tem como objetivo resumir o conteúdo Estatística e ciência de dados, com abordagem teórica e prática com o uso do software R. Este material certamente não está isento de pequenos erros e será atualizado periodicamente conforme mais conhecimento sobre o conteúdo seja adquirido. O primeiro passo para que se possa acompanhar este material é através da instalação e utilização dos pacotes `nlme` e `tidyverse`, conforme abaixo:
+
+```{r packages, warning = FALSE, message=FALSE}
+library(tidyverse)
+library(nlme)
+```
+
+# Seção 1
+
+## 1.1
+
+## 1.2
+
+## 1.3
+
