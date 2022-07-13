@@ -1,7 +1,7 @@
 ---
 title: "Estatística e Ciência de Dados"
 author: "Filipe Formiga"
-date: '2022-06-30'
+date: 'Atualizado em: 13/07/22'
 output:
   html_document:
     number_sections: true
